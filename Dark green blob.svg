@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1113" height="385" viewBox="0 0 1113 385">
+  <defs>
+    <filter id="Path_3635" x="-9.614" y="-15.621" width="1132.207" height="412.972" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Dark_green_blob">
+      <rect width="1113" height="385"/>
+    </clipPath>
+  </defs>
+  <g id="Dark_green_blob" data-name="Dark green blob" clip-path="url(#clip-Dark_green_blob)">
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_3635)">
+      <path id="Path_3635-2" data-name="Path 3635" d="M952,0s32.066,154.766,161.619,210.907,127.676,10.242,289.655,54.623,115.492,154.766,358.263,122.9S2065,0,2065,0Z" transform="translate(-952 -9.12)" fill="#45c38f" stroke="#45c38f" stroke-width="1"/>
+    </g>
+  </g>
+</svg>
